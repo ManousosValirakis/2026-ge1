@@ -103,7 +103,7 @@ Play store: Ειδοποιήσεις καιρού – widget
 
 
 <img src="imgs/ειδοποιήσειςκαιρού1.jpg"
-       height="300">
+       height="500">
   
      
 Εικ 1

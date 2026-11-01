@@ -259,7 +259,8 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 
 Το link το οποίο μας οδηγει στην εφαρμογή είναι το:
 
-https://design.penpot.app/?screen=viewer&file-id=2bd3d7f1-914f-8188-8008-dd3f222bae36&page-id=2bd3d7f1-914f-8188-8008-dd3f222bae37&section=interactions&frame-id=c53d69d7-362d-80c0-8008-dd402f1244cc&index=4&share-id=95765a53-e05d-4d95-8c83-60edd57b3961
+https://design.penpot.app/?screen=viewer&file-id=2bd3d7f1-914f-8188-8008-dd3f222bae36&page-id=2bd3d7f1-914f-8188-8008-dd3f222bae37&section=interactions&frame-id=c53d69d7-362d-80c0-8008-dd402f1244cc&index=0&share-id=95765a53-e05d-4d95-8c83-60edd57b3961
+
 
 
 

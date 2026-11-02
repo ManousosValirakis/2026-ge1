@@ -12,7 +12,7 @@
 
 Πατήστε το κουμπί της επεξεργασίας και συμπληρώστε τα παρακάτω στοιχεία:
 
-Αποθετήριο: https://github.com/sdy60-2026/ge1 -- https://github.com/ManousosValirakis/2026-ge1
+Αποθετήριο: https://github.com/sdy60-2026/ge1 -- https://github.com/ManousosValirakis
 
 ΑΜ: 164332
 

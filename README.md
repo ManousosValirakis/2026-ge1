@@ -89,6 +89,14 @@ https://sdy60-2026.github.io/ge1/
 Το link για την δική μου σελίδα βιογραφικού στο github είναι το
 https://github.com/ManousosValirakis/cv-yaml-pdf
 
+Το link για την ιστοσελίδα του βιογραφικού μου σε jekyll είναι το
+https://manousosvalirakis.github.io/cv-yaml-pdf/
+
+Το link για το βιογραφικό μου σε PDF είναι το
+https://manousosvalirakis.github.io/cv-yaml-pdf/cv.pdf
+
+και τέλος το link για την εγγραφή τερματικού με το asciinema είναι το
+https://asciinema.org/a/b5GYkazZ2E4hbOyF
 
 ## Μέρος Β - Ανάλυση και Σχεδίαση, 50 μονάδες
 
